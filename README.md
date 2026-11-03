@@ -1,4 +1,6 @@
 # WDM-Ex.NO-1---EMPLOYEE-TABLE-IN-WEKA
+## Name: Subha shree U
+## Reg.no: 2305002025
 Aim:
 To Create an Employee Table with the help of Data Mining Tool WEKA.
 Description:
@@ -36,15 +38,19 @@ b,105,high,2,male,240240
  
 Training Data Set  Employee Table
 
-<img width="707" height="766" alt="image" src="https://github.com/user-attachments/assets/dd3ee012-ad5e-460d-93af-049f16e3579d" />
+<img width="1042" height="627" alt="image" src="https://github.com/user-attachments/assets/39373ae2-f060-4ee4-b068-595e5f40b152" />
+
+
 
 
  
 Output:
+<img width="1045" height="587" alt="image" src="https://github.com/user-attachments/assets/4f850bb9-3abb-490a-bd53-65950b6baf49" />
 
 
 
-<img width="941" height="561" alt="image" src="https://github.com/user-attachments/assets/5dee0b73-ce07-4230-a752-d2d57e6836f5" />
+
+
 
 
 
